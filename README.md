@@ -172,6 +172,7 @@ When contributing, **please follow the rules outlined in [CONTRIBUTING.md](https
 | ---- | ---- | ----------- |
 | [DeepL](https://deepl.com/) | **14-eyes** | DeepL is an artifical intelligence translation service. **Please keep in mind DeepL tracks the text you translate unless you purchase Pro**. See sections 4 & 5 of their [privacy policy](https://www.deepl.com/privacy.html) for more information. Thanks u/TheCy-FiJuggernaut |
 | [Apertium](https://apertium.org/) |  | A free, [open-source](https://github.com/apertium/apertium) translation system. |
+| [LibreTranslate](https://libretranslate.com/) |  | Free and [Open Source](https://github.com/uav4geo/LibreTranslate) Machine Translation API, entirely self-hosted. |
 
 
 
